@@ -1,1 +1,1 @@
-![alt](images/blog-1.png)
+![alt](images/blog-1.jpg)
